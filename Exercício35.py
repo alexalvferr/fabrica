@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  7 17:16:50 2022
-
-@author: Alexandre
-"""
-
 file = 35.8
 alcatra = 46.8
 picanha = 67.8
