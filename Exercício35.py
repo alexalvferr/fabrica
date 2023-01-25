@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  7 16:55:28 2022
-
-@author: Alexandre
-"""
-
 alcool = 1.9
 gas = 2.5
 
