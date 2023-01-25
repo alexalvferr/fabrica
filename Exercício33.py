@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  7 16:47:31 2022
-
-@author: Alexandre
-"""
-
 n1 = int(input('Digite o primeiro número: '))
 n2 = int(input('Digite o segundo número: '))
 op  = input('Digite + para Soma, - para Subtração, * para Multiplicação e / para Divisão:  ')
