@@ -6,3 +6,4 @@ while True:
     quantidade = quantidade + 1
 print("Quantidade de números digitados:", quantidade)
 
+

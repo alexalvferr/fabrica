@@ -1,13 +1,10 @@
-I = 0 
+impar = 0
+while True:
+    n = int(input("Digite um número inteiro: "))
+    if n == -999:
+        break
+    elif n % 2 != 0:
+        n = impar
+        impar = impar + 1
 
-while True: 
-  n = int(input("Digite Um Número Inteiro: ")) 
-  if n % 2 != 0: 
-    I = I + 1 
-  if n == -0:
-    break
-
-  
-print("A qtd de números ímpares é: ", I) 
-
-
+print("Quantidade de números ímpares digitados:", impar)

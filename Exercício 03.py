@@ -1,0 +1,6 @@
+nome = str(input("Digite o seu nome: "))
+tit_eleit = int(input("Digite o número do seu Título de Eleitor: "))
+num_cand = int(input("Digite o Número do Candidato: "))
+print("O nome do eleitor é: \n", nome)
+print("O Título de Eleitor é: \n", tit_eleit)
+print("Onúmero do Candidato é: \n", num_cand)

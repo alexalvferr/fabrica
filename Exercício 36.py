@@ -1,0 +1,7 @@
+cachorro_quente = [100 , 11.2]
+ovo_simples = [101 , 8.3]
+bauru_ovo = [102 , 11.5]
+hamburguer = [103 , 16.2]
+refri = [201 , 6.0]
+suco = [202 , 7.5]
+agua = [203 , 4.7]
