@@ -2,7 +2,7 @@ num = int(input('Digite um número: '))
 menor = num
 maior = num
 
-for i in range(1,5):
+for i in range(1,20):
     num = int(input('Digite outro número: '))
     if num < menor:
         menor = num
