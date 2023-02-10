@@ -15,7 +15,7 @@ def main():
     valor_vendas = []
     num_vendas = int(input("Digite a Quantidade de Vendas Feitas: "))
     for i in range(num_vendas):
-        valor_vendas.append(float(input("Digite o Valor da Venda: ")))
+        valor_vendas.append(float(input("Digite o Valor da Venda:$ ")))
 
     salario_count = [0] * 9
     for qtd_vendas in valor_vendas:
